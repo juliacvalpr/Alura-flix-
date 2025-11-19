@@ -17,3 +17,16 @@ h1{
 p{
   font: size 25px;
 }
+
+section{
+background-color: rgb(102, 14, 14);
+padding-bottom: 80px;
+padding-top: 80px;
+display: flex;
+justify-content: center;
+
+}
+
+.chamada-texto{
+margin-right: 10%;
+}
